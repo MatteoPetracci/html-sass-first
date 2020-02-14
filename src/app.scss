@@ -1,0 +1,16 @@
+$colorRed: red;
+$blue: blue;
+$fontWeight: bold;
+
+h1 {
+  color: $colorRed;
+}
+
+p {
+  color: $colorRed;
+}
+
+span {
+  color: $blue;
+  font-weight: $fontWeight;
+}
